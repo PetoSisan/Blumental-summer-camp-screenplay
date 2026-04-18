@@ -1,4 +1,4 @@
-# Summer-camp-Blumental-script
+# Blumental-summer-camp-screenplay
 This repo contains the story outline for theme *From a Fairitale to a Fairitale* of Summer Camp Blumentál 2024
 (https://www.instagram.com/tabor_blumental/).
 
