@@ -8,5 +8,5 @@ This repo contains the story outline for theme *From a Fairitale to a Fairitale*
 - Aragorn's speech (his speech before the Black Gate) is quoted from the movie. 
 
 ## Usage
-- You may used this script for **non-commercial** use. I am not sure which licence to use, that why I am writing it here :D.
+- You may used this scrennplay for **non-commercial** use. I am not sure which licence to use, that why I am writing it here :D.
 
